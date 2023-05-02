@@ -1,0 +1,129 @@
+﻿{
+    "Url": "www.epdata.es/victimas-mortales-violencia-genero/47756e25-3696-4a9e-ac3a-fc9027b17db5/espana/106",
+    "Respuesta": {
+        "Id": "47756e25-3696-4a9e-ac3a-fc9027b17db5",
+        "Url": "www.epdata.es/victimas-mortales-violencia-genero/47756e25-3696-4a9e-ac3a-fc9027b17db5/espana/106",
+        "Titulo": "Un total de 11 mujeres han sido asesinadas por violencia de género en lo que va de año",
+        "Subtitulo": "",
+        "Datos": {
+            "Metricas": [
+                {
+                    "Id": 0,
+                    "Nombre": "Víctimas de violencia de género a nivel mensual - Mujeres asesinadas para total como edad de la víctima, total como edad del agresor, total como relación del agresor con la víctima, total como convivencia con el agresor, total como denuncia interpuesta contra el agresor y España como país",
+                    "SonDatosNumericos": true,
+                    "Fuente": "Ministerio de Sanidad, Servicios Sociales e Igualdad",
+                    "Clasificacion": null,
+                    "Unidad": "Mujeres asesinadas",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 5,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Abril",
+                            "Parametro": "Abril",
+                            "Valor": 5,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Mayo",
+                            "Parametro": "Mayo",
+                            "Valor": 6,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Junio",
+                            "Parametro": "Junio",
+                            "Valor": 4,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Julio",
+                            "Parametro": "Julio",
+                            "Valor": 3,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Agosto",
+                            "Parametro": "Agosto",
+                            "Valor": 3,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Septiembre",
+                            "Parametro": "Septiembre",
+                            "Valor": 4,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Octubre",
+                            "Parametro": "Octubre",
+                            "Valor": 1,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Noviembre",
+                            "Parametro": "Noviembre",
+                            "Valor": 3,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Diciembre",
+                            "Parametro": "Diciembre",
+                            "Valor": 11,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Enero",
+                            "Parametro": "2023",
+                            "Valor": 7,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Febrero",
+                            "Parametro": "Febrero",
+                            "Valor": 2,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Marzo",
+                            "Parametro": "Marzo",
+                            "Valor": 2,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
