@@ -1,4 +1,4 @@
-{ "datos" : [
+{ "datosAlumnos" : [
     {"alumno": "Carlos", "nota": 2.5, "ranking": 500},
     {"alumno": "Juan", "nota": 4, "ranking": 150},
     {"alumno": "Andrés", "nota": 3.5, "ranking": 380},
