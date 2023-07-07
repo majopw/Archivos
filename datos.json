@@ -9,5 +9,5 @@
     {"alumno": "Janeth", "nota": 8, "ranking": 130},
     {"alumno": "Gabriela", "nota": 9, "ranking": 100},
     {"alumno": "Pedro", "nota": 9.09, "ranking": 10}, 
-    {"alumno": "Norma", "nota": 10, "ranking": 10}
-]};
+    {"alumno": "Norma", "nota": 10, "ranking": 10},
+]}
