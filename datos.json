@@ -2,12 +2,12 @@
 	"datosNotas": [{
 			"alumno": "Maria Jose",
 			"nota": 10,
-			"ranking": 500
+			"ranking": 10
 		},
 		{
 			"alumno": "Pedro",
 			"nota": 4,
-			"ranking": 150
+			"ranking": 500
 		},
 		{
 			"alumno": "Andres",
@@ -46,13 +46,13 @@
 		},
 		{
 			"alumno": "Michelle",
-			"nota": 9.4,
-			"ranking": 10
+			"nota": 9.2,
+			"ranking": 50
 		},
 		{
 			"alumno": "Shirley",
 			"nota": 5.5,
-			"ranking": 10
+			"ranking": 450
 		}
 	]
 }
