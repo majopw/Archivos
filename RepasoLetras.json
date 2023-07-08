@@ -1,7 +1,7 @@
 [
 {
 			"alumno": "Carlos",
-			"nota": 2.5,
+			"nota": 7.9,
 			"ranking": 500
 		},
 		{
@@ -11,47 +11,37 @@
 		},
 		{
 			"alumno": "Andrés",
-			"nota": 3.5,
+			"nota": 9.5,
 			"ranking": 380
 		},
 		{
 			"alumno": "Rosa",
-			"nota": 5,
+			"nota": 7.75,
 			"ranking": 250
 		},
 		{
 			"alumno": "Ana",
-			"nota": 6,
+			"nota": 9,
 			"ranking": 200
 		},
 		{
 			"alumno": "Estefany",
-			"nota": 7,
+			"nota": 6,
 			"ranking": 180
 		},
 		{
 			"alumno": "Esteban",
-			"nota": 7.5,
+			"nota": 2.5,
 			"ranking": 150
 		},
 		{
 			"alumno": "Janeth",
-			"nota": 8,
+			"nota": 5.2,
 			"ranking": 130
 		},
 		{
 			"alumno": "Gabriela",
-			"nota": 9,
-			"ranking": 100
-		},
-		{
-			"alumno": "Pedro",
-			"nota": 9.09,
-			"ranking": 10
-		},
-		{
-			"alumno": "Norma",
 			"nota": 10,
-			"ranking": 10
+			"ranking": 100
 		}
 	]
