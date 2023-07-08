@@ -1,47 +1,47 @@
 [
 {
 			"alumno": "Carlos",
-			"nota": 7.9,
-			"ranking": 500
+			"TamanioLetra": 11,
+			"peso": 500
 		},
 		{
 			"alumno": "Juan",
-			"nota": 4,
-			"ranking": 150
+			"TamanioLetra": 4,
+			"peso": 150
 		},
 		{
 			"alumno": "Andrés",
-			"nota": 9.5,
-			"ranking": 380
+			"TamanioLetra": 9,
+			"peso": 380
 		},
 		{
 			"alumno": "Rosa",
-			"nota": 7.75,
-			"ranking": 250
+			"TamanioLetra": 7,
+			"peso": 250
 		},
 		{
 			"alumno": "Ana",
-			"nota": 9,
-			"ranking": 200
+			"TamanioLetra": 9,
+			"peso": 200
 		},
 		{
 			"alumno": "Estefany",
-			"nota": 6,
-			"ranking": 180
+			"TamanioLetra": 6,
+			"peso": 180
 		},
 		{
 			"alumno": "Esteban",
-			"nota": 2.5,
-			"ranking": 150
+			"TamanioLetra": 2,
+			"peso": 150
 		},
 		{
 			"alumno": "Janeth",
-			"nota": 5.2,
-			"ranking": 130
+			"TamanioLetra": 5,
+			"peso": 130
 		},
 		{
 			"alumno": "Gabriela",
-			"nota": 10,
-			"ranking": 100
+			"TamanioLetra": 10,
+			"peso": 100
 		}
 	]
