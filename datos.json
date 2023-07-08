@@ -1,58 +1,58 @@
 {
-	"datosCarreras": [{
-			"carrera": "Medicina",
-			"puntaje": 2.5,
-			"top": 500
+	"datosNotas": [{
+			"alumno": "Maria Jose",
+			"nota": 10,
+			"ranking": 500
 		},
 		{
-			"carrera": "Ingenieria Comercial",
-			"puntaje": 4,
-			"top": 150
+			"alumno": "Pedro",
+			"nota": 4,
+			"ranking": 150
 		},
 		{
-			"carrera": "Licenciado",
-			"puntaje": 3.5,
-			"top": 380
+			"alumno": "Andres",
+			"nota": 3.5,
+			"ranking": 380
 		},
 		{
-			"carrera": "Profesor",
-			"puntaje": 5,
-			"top": 250
+			"alumno": "Ofelia",
+			"nota": 5,
+			"ranking": 250
 		},
 		{
-			"carrera": "Arquitectura",
-			"puntaje": 6,
-			"top": 200
+			"alumno": "Juan",
+			"nota": 6,
+			"ranking": 200
 		},
 		{
-			"carrera": "Publicista",
-			"puntaje": 7,
-			"top": 180
+			"alumno": "Sebastian",
+			"nota": 7,
+			"ranking": 180
 		},
 		{
-			"carrera": "Administrador",
-			"puntaje": 7.5,
-			"top": 150
+			"alumno": "Nelson",
+			"nota": 7.5,
+			"ranking": 150
 		},
 		{
-			"carrera": "Analista",
-			"puntaje": 8,
-			"top": 130
+			"alumno": "Gabriela",
+			"nota": 8,
+			"ranking": 130
 		},
 		{
-			"carrera": "Funcionario",
-			"puntaje": 9,
-			"top": 100
+			"alumno": "Karen",
+			"nota": 9,
+			"ranking": 100
 		},
 		{
-			"carrera": "Pedro",
-			"puntaje": 9.09,
-			"top": 10
+			"alumno": "Michelle",
+			"nota": 9.4,
+			"ranking": 10
 		},
 		{
-			"carrera": "Abogado",
-			"puntaje": 10,
-			"top": 10
+			"alumno": "Shirley",
+			"nota": 5.5,
+			"ranking": 10
 		}
 	]
 }
